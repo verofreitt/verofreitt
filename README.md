@@ -14,7 +14,7 @@
 <h2 align="center">Vamos nos conectar 😺</h2>
 
 <p align="center">
-  <a href="http://verofreitt.github.io"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+  <a href="http://verofreitt.github.io" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:verofreitt@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/verofreitt/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
   <a href="https://github.com/verofreitt"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title='GitHub' alt="GitHub"/></a>
