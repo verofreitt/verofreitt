@@ -7,7 +7,7 @@
 <br>React e Node, também aprimorando outras linguagens mas mais focado no front-end.</br>
 <br>Tenho 25 anos e sou formada em Análise e Desenvolvimento de Sistemas
 
-<br>Meus passatempos favoritos são ler mangás, programar e ouvir músicas</br></br></br></br>
+<br>Meus passatempos favoritos são programar, ler mangás e ouvir músicas</br></br></br></br>
 
 <p></p>
 
