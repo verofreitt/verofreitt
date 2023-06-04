@@ -11,7 +11,7 @@
 
 <p></p>
 
-<h2 align="center">Vamos nos conecta 😺</h2>
+<h2 align="center">Vamos nos conectar 😺</h2>
 
 <p align="center">
   <a href="http://verofreitt.github.io" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
