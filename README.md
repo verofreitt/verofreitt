@@ -4,7 +4,7 @@
 
 <br>Olá, sou desenvolvedora Web, estudando principalmente 
 <img align="right" src="https://camo.githubusercontent.com/c18ad7d1f4275841d1d83ecd438d3fe514b1788f171259834f73fda02c719205/68747470733a2f2f7061312e6e61727669692e636f6d2f363538302f383039386336653932303733373638383965656230353332643966356130373233633464373366355f68712e676966" data-canonical-src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif" style="max-width: 70%; display: inline-flex;" data-target="animated-image.originalImage">
-<br>React e Node, também aprimorando outras linguagens mas focando no front-end.</br>
+<br>React e Node, também aprimorando outras linguagens mas focando no front end.</br>
 <br>Tenho 25 anos e sou formada em Análise e Desenvolvimento de Sistemas
 
 <br>Meus passatempos favoritos são programar, ler mangás e ouvir músicas</br></br></br></br>
