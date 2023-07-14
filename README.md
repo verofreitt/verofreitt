@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Oi, eu sou a Verônica 😄</h1>
-<h3 align="center">Desenvolvedora Web Full=Stack</h3>
+<h3 align="center">Desenvolvedora Web Full-Stack</h3>
 
 <br>Olá, sou desenvolvedora Web, estudando principalmente 
 <br>React.js e Node.js, também aprimorando outras bibliotecas e frameworks como typescript, jquery, bootstrap, entre outras.</br>
