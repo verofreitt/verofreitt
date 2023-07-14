@@ -1,9 +1,9 @@
 <div align="center">
 <h1 align="center">Oi, eu sou a Verônica 😄</h1>
-<h3 align="center">Desenvolvedora Web</h3>
+<h3 align="center">Desenvolvedora Web Full=Stack</h3>
 
 <br>Olá, sou desenvolvedora Web, estudando principalmente 
-<br>React e Node, também aprimorando outras bibliotecas e frameworks como typescript, jquery, bootstrap, entre outras.</br>
+<br>React.js e Node.js, também aprimorando outras bibliotecas e frameworks como typescript, jquery, bootstrap, entre outras.</br>
 <br>Tenho 25 anos e sou formada em Análise e Desenvolvimento de Sistemas
 
 <br>Meus passatempos favoritos são programar, ler mangás e ouvir músicas</br></br></br></br>
