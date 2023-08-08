@@ -4,6 +4,7 @@
 
 <br>Sou desenvolvedora Web, estudando principalmente 
 <br>React.js e Node.js mas também aprimorando outras ferramentas como Typescript, Docker, MongoDB, entre outras.</br>
+<br>Atualmente estou fazendo o bootcamp Santander fullstack de Angular e Java</br>
 <br>Tenho 25 anos e sou formada em Análise e Desenvolvimento de Sistemas
 
 <br>Meus passatempos favoritos são programar, ler mangás e ouvir músicas</br></br></br></br>
