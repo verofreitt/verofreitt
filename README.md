@@ -3,11 +3,11 @@
 <h3 align="center">Desenvolvedora Web Full-Stack</h3>
 
 <br>Sou desenvolvedora Web, estudando principalmente 
-<br>React.js e Node.js mas também aprimorando outras ferramentas como Typescript, Docker, MongoDB, entre outras.</br>
+<br>Angular e Java mas também aprimorando outras ferramentas como Docker, MongoDB, entre outras.</br>
 <br>Tenho 25 anos e sou formada em Análise e Desenvolvimento de Sistemas
 
 <br>Meus passatempos favoritos são programar, ler mangás e ouvir músicas</br>
-<br>Atualmente estou fazendo o bootcamp Santander fullstack de Angular e Java.</br></br></br>
+<br>Atualmente estou fazendo o bootcamp Santander fullstack de Angular e Java e participando do programa Start by Capgemini estudando Java.</br></br></br>
 <img align="center" src="https://camo.githubusercontent.com/c18ad7d1f4275841d1d83ecd438d3fe514b1788f171259834f73fda02c719205/68747470733a2f2f7061312e6e61727669692e636f6d2f363538302f383039386336653932303733373638383965656230353332643966356130373233633464373366355f68712e676966" data-canonical-src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif" style="max-width: 30%; display: inline-flex;" data-target="animated-image.originalImage">
 
 <p></p>
