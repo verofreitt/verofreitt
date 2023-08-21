@@ -3,7 +3,7 @@
 <h3 align="center">Desenvolvedora Web Full-Stack</h3>
 
 <br>Sou desenvolvedora Web, estudando principalmente 
-<br>Angular e Java mas também aprimorando outras ferramentas como Docker, MongoDB, entre outras.</br>
+<br>Java e Angular mas também aprimorando outras ferramentas como Docker, MongoDB, Git, entre outras.</br>
 <br>Tenho 25 anos e sou formada em Análise e Desenvolvimento de Sistemas
 
 <br>Meus passatempos favoritos são programar, ler mangás e ouvir músicas</br>
