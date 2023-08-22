@@ -9,7 +9,7 @@
 <br>Meus passatempos favoritos são programar, ler mangás e ouvir músicas</br>
 <br>Atualmente estou fazendo o bootcamp Santander fullstack de Angular e Java e participando do programa Start by Capgemini estudando Java.</br></br></br>
 
-<img align="center" src="https://github.com/verofreitt/verofreitt/assets/113372101/ed1d1653-a6f0-4ec6-b7d1-6cf20e6d0d7b" style=" display: inline-flex; width=10 height=10">
+<img align="center" src="https://github.com/verofreitt/verofreitt/assets/113372101/ed1d1653-a6f0-4ec6-b7d1-6cf20e6d0d7b" width="100" height="100">
 
 
 <p></p>
