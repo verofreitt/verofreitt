@@ -7,7 +7,7 @@
 <br>Tenho 25 anos e sou formada em Análise e Desenvolvimento de Sistemas
 
 <br>Meus passatempos favoritos são programar, ler mangás e ouvir músicas</br>
-<br>Atualmente estou fazendo o bootcamp Santander fullstack de Angular e Java e participando do programa Start by Capgemini estudando Java.</br>
+<br>Atualmente estou fazendo o bootcamp Santander fullstack de Angular e Java e participando do programa Start by Capgemini fazendo a trilha de Java.</br>
 
 <img align="center" src="https://github.com/verofreitt/verofreitt/assets/113372101/ed1d1653-a6f0-4ec6-b7d1-6cf20e6d0d7b" width="250" height="250">
 
