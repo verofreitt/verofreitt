@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Olá, eu sou a Verônica 😄</h1>
-<h3 align="center">Desenvolvedora Full-Stack</h3>
+<h3 align="center">Desenvolvedora Full-Stack Angular e Java</h3>
 
 <br>Sou desenvolvedora full-stack Java e Angular, estudando principalmente 
 <br>Java e Angular mas também aprimorando outras ferramentas como Docker, MongoDB, Git, entre outras.</br>
