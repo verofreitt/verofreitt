@@ -1,8 +1,8 @@
 <div align="center">
 <h1 align="center">Olá, eu sou a Verônica 😄</h1>
-<h3 align="center">Desenvolvedora Web Full-Stack</h3>
+<h3 align="center">Desenvolvedora Full-Stack</h3>
 
-<br>Sou desenvolvedora Web, estudando principalmente 
+<br>Sou desenvolvedora full-stack, estudando principalmente 
 <br>Java e Angular mas também aprimorando outras ferramentas como Docker, MongoDB, Git, entre outras.</br>
 <br>Tenho 25 anos e sou formada em Análise e Desenvolvimento de Sistemas
 
