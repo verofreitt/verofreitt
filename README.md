@@ -2,8 +2,7 @@
 <h1 align="center">Olá, eu sou a Verônica 😄</h1>
 <h3 align="center">Desenvolvedora Full-Stack Angular e Java</h3>
 
-<br>Sou desenvolvedora full-stack Java e Angular, estudando principalmente 
-<br>Java e Angular mas também aprimorando outras ferramentas como Docker, MongoDB, Git, entre outras.</br>
+<br>Sou desenvolvedora full-stack Java e Angular, também aprimorando outras ferramentas como Docker, MongoDB, Git, entre outras.</br>
 <br>Tenho 25 anos e sou formada em Análise e Desenvolvimento de Sistemas
 
 <br>Meus passatempos favoritos são programar, ler mangás e ouvir músicas</br>
