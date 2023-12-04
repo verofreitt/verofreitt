@@ -3,8 +3,8 @@
 <h3 align="center">Desenvolvedora Full-Stack Java</h3>
 
 <br>Sou uma desenvolvedora full-stack Java Júnior, também aprimorando algumas ferramentas como React, Angular, Typescript, Docker, MongoDB, Spring, entre outras.</br>
-<br>Tenho 25 anos e sou formada em Análise e Desenvolvimento de Sistemas
-<br>Meus passatempos favoritos são programar, ler mangás, jogar e ouvir músicas
+<br>Tenho 25 anos e sou formada em Análise e Desenvolvimento de Sistemas</br>
+<br>Meus passatempos favoritos são programar, ler mangás, jogar e ouvir músicas</br>
 <br>Atualmente estou fazendo o bootcamp Java Full-stack da Generation Brasil.</br>
 <img align="center" src="https://github.com/verofreitt/verofreitt/assets/113372101/ed1d1653-a6f0-4ec6-b7d1-6cf20e6d0d7b" width="250" height="250">
 
