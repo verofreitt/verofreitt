@@ -3,7 +3,7 @@
   <h3 align="center">Transformando ideias em código e construindo soluções inovadoras</h3>
 
 <p align="center">
-    🌐 Sou uma entusiasta desenvolvedora Java Full-stack Júnior, apaixonada por criar aplicativos robustos e escaláveis. Atualmente, estou aprimorando minhas habilidades com tecnologias como React, Angular, Typescript, Docker, MongoDB, Spring, e mais.
+    🌐 Sou uma entusiasta desenvolvedora Java Full-stack Júnior, apaixonada por criar aplicativos robustos e escaláveis. Atualmente, estou aprimorando minhas habilidades com tecnologias como React, Angular, Typescript, Docker, MongoDB, Spring e mais.
   </p>
 <p align="center">
     🎓 Graduada em Análise e Desenvolvimento de Sistemas, estou avançando ainda mais no meu conhecimento através do bootcamp Java Full-stack da Generation Brasil 🚀
