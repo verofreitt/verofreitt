@@ -1,11 +1,18 @@
 <div align="center">
-<h1 align="center">Olá, eu sou a Verônica 😄</h1>
-<h3 align="center">Desenvolvedora Full-Stack Java</h3>
+<h1 align="center">👩‍💻 Verônica Freitas - Desenvolvedora Full-Stack Java</h1>
+  <h3 align="center">Transformando ideias em código e construindo soluções inovadoras</h3>
 
-<br>Sou uma desenvolvedora Java Full-stack Júnior, também aprimorando algumas ferramentas como React, Angular, Typescript, Docker, MongoDB, Spring, entre outras.</br>
-<br>Tenho 25 anos e sou formada em Análise e Desenvolvimento de Sistemas</br>
-<br>Meus passatempos favoritos são programar, ler mangás, jogar e ouvir músicas</br>
-<br>Atualmente estou fazendo o bootcamp Java Full-stack da Generation Brasil.</br>
+<p align="center">
+    🌐 Sou uma entusiasta desenvolvedora Java Full-stack Júnior, apaixonada por criar aplicativos robustos e escaláveis. Atualmente, estou aprimorando minhas habilidades com tecnologias como React, Angular, Typescript, Docker, MongoDB, Spring, e mais.
+  </p>
+<p align="center">
+    🎓 Graduada em Análise e Desenvolvimento de Sistemas, estou avançando ainda mais no meu conhecimento através do bootcamp Java Full-stack da Generation Brasil 🚀
+  </p>
+<p align="center">
+    🎓 Análise e Desenvolvimento de Sistemas - Universidade Nove de Julho <br>
+    🏆 Certificações em Java, Angular, Typescript, MongoDB, e mais através de cursos na Digital Innovation One (DIO) e Santander Bootcamp.
+  </p>
+  
 <img align="center" src="https://github.com/verofreitt/verofreitt/assets/113372101/ed1d1653-a6f0-4ec6-b7d1-6cf20e6d0d7b" width="250" height="250">
 
 
