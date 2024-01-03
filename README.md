@@ -10,7 +10,7 @@
   </p>
 <p align="center">
     🎓 Análise e Desenvolvimento de Sistemas - Universidade Nove de Julho <br>
-    🏆 Certificações em Java, Angular, Typescript, MongoDB e mais através de cursos na Digital Innovation One (DIO) e Santander Bootcamp.
+    🏆 Certificações em Java, Angular, Typescript, MongoDB e mais através de cursos na Digital Innovation One e Santander Bootcamp.
   </p>
   
 <img align="center" src="https://github.com/verofreitt/verofreitt/assets/113372101/ed1d1653-a6f0-4ec6-b7d1-6cf20e6d0d7b" width="250" height="250">
