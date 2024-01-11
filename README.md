@@ -10,6 +10,7 @@
   </p>
 <p align="center">
     🎓 Análise e Desenvolvimento de Sistemas - Universidade Nove de Julho <br>
+	🎓 Ciência da Computação - Centro Universitario UFBRA <br>
     🏆 Certificações em Java, Angular, Typescript, MongoDB e mais através de cursos na Digital Innovation One e Santander Bootcamp.
   </p>
   
