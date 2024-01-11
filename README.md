@@ -6,7 +6,7 @@
     🌐 Sou uma entusiasta desenvolvedora Java Full-stack Júnior, apaixonada por criar aplicativos robustos e escaláveis. Atualmente, estou aprimorando minhas habilidades com tecnologias como React, Angular, Typescript, Docker, MongoDB, Spring e mais.
   </p>
 <p align="center">
-    🎓 Graduada em Análise e Desenvolvimento de Sistemas, estou avançando ainda mais no meu conhecimento através do bootcamp Java Full-stack da Generation Brasil 🚀
+    🎓 Graduada em Análise e Desenvolvimento de Sistemas e cursando Ciência da Computação, estou avançando ainda mais no meu conhecimento através do bootcamp Java Full-stack da Generation Brasil 🚀
   </p>
 <p align="center">
     🎓 Análise e Desenvolvimento de Sistemas - Universidade Nove de Julho <br>
