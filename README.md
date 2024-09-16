@@ -3,7 +3,7 @@
   <h3 align="center">Transformando ideias em código e construindo soluções inovadoras</h3>
 
 <p align="center">
-    🌐 Sou Desenvolvedora de Software na empresa Asaptech, comprometida com o desenvolvimento de soluções tecnológicas de qualidade. Estou constantemente aprendendo e aprimorando minhas habilidades, colaborando ativamente com a equipe para escrever código claro e eficiente. Identifico e corrijo bugs, participo de processos de depuração e me comunico proativamente sobre possíveis obstáculos. Priorizo a eficiência no cumprimento de prazos, adotando práticas seguras de codificação e mantendo-me atualizado sobre boas práticas de segurança. Em resumo, estou empenhada em contribuir para o sucesso dos projetos, sempre buscando a excelência e a inovação.
+    🌐 Sou Desenvolvedora de Software na empresa Asapcard, comprometida com o desenvolvimento de soluções tecnológicas de qualidade. Estou constantemente aprendendo e aprimorando minhas habilidades, colaborando ativamente com a equipe para escrever código claro e eficiente. Identifico e corrijo bugs, participo de processos de depuração e me comunico proativamente sobre possíveis obstáculos. Priorizo a eficiência no cumprimento de prazos, adotando práticas seguras de codificação e mantendo-me atualizado sobre boas práticas de segurança. Em resumo, estou empenhada em contribuir para o sucesso dos projetos, sempre buscando a excelência e a inovação.
   </p>
   <p align="center">
     <strong>Competências:</strong> Golang, ISO8583, Bitbucket, JIRA, Amazon Web Services (AWS), Slack, Confluence, Linux, Docker, Kanban, SQL.
@@ -32,6 +32,9 @@
 
 <h2 align="center">Linguagens e Ferramentas:</h2>
 <p align="center">
+<a href="https://docs.oracle.com/en/java/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg" />
+ </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg" />
+ </a>
 <a href="https://docs.oracle.com/en/java/"> <img src="https://icongr.am/devicon/java-original.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
 <!-- <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>  -->
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
