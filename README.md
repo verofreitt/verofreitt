@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">👩‍💻 Verônica Freitas - Desenvolvedora Backend</h1>
+<h1 align="center">👩‍💻 Verônica Freitas - Desenvolvedora</h1>
   <h3 align="center">Transformando ideias em código e construindo soluções inovadoras</h3>
 
 <p align="center">
