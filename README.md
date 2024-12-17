@@ -1,8 +1,8 @@
 <div align="center">
-<h1 align="center">👩‍💻 Verônica Freitas - Software Enginner</h1>
+<h1 align="center">Verônica Freitas - Software Enginner</h1>
 
 <p align="center">
-    🌐 Sou Desenvolvedora de Software na empresa Asapcard. Estou constantemente aprendendo e aprimorando minhas habilidades. Estou empenhada em contribuir para o sucesso dos projetos, sempre buscando a excelência e a inovação.
+    Sou Desenvolvedora de Software na empresa Asapcard. Estou constantemente aprendendo e aprimorando minhas habilidades. Estou empenhada em contribuir para o sucesso dos projetos, sempre buscando a excelência e a inovação.
   </p>
   <p align="center">
     <strong>Competências:</strong> Golang, ISO8583, Bitbucket, JIRA, Amazon Web Services (AWS), Slack, Confluence, Linux, Docker, Kanban, SQL.
