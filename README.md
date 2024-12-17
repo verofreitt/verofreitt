@@ -1,16 +1,15 @@
 <div align="center">
-<h1 align="center">👩‍💻 Verônica Freitas - Desenvolvedora</h1>
-  <h3 align="center">Transformando ideias em código e construindo soluções inovadoras</h3>
+<h1 align="center">👩‍💻 Verônica Freitas - Software Enginner</h1>
 
 <p align="center">
-    🌐 Sou Desenvolvedora de Software na empresa Asapcard, comprometida com o desenvolvimento de soluções tecnológicas de qualidade. Estou constantemente aprendendo e aprimorando minhas habilidades, colaborando ativamente com a equipe para escrever código claro e eficiente. Identifico e corrijo bugs, participo de processos de depuração e me comunico proativamente sobre possíveis obstáculos. Priorizo a eficiência no cumprimento de prazos, adotando práticas seguras de codificação e mantendo-me atualizado sobre boas práticas de segurança. Em resumo, estou empenhada em contribuir para o sucesso dos projetos, sempre buscando a excelência e a inovação.
+    🌐 Sou Desenvolvedora de Software na empresa Asapcard. Estou constantemente aprendendo e aprimorando minhas habilidades. Estou empenhada em contribuir para o sucesso dos projetos, sempre buscando a excelência e a inovação.
   </p>
   <p align="center">
     <strong>Competências:</strong> Golang, ISO8583, Bitbucket, JIRA, Amazon Web Services (AWS), Slack, Confluence, Linux, Docker, Kanban, SQL.
 </p>
 <p align="center">
     🎓 Análise e Desenvolvimento de Sistemas - Universidade Nove de Julho <br>
-    🏆 Certificações em Java, Angular, Typescript, MongoDB e mais através de cursos na Digital Innovation One, Santander Bootcamp e Generation Brasil.
+    🏆 Certificações em Java, Angular, Typescript, MongoDB e mais.
   </p>
   
 <img align="center" src="https://github.com/verofreitt/verofreitt/assets/113372101/ed1d1653-a6f0-4ec6-b7d1-6cf20e6d0d7b" width="250" height="250">
