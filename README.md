@@ -2,17 +2,13 @@
 <h1 align="center">Verônica Freitas - Software Enginner</h1>
 
 <p align="center">
-    Sou Desenvolvedora de Software na empresa Asapcard. Estou constantemente aprendendo e aprimorando minhas habilidades. Estou empenhada em contribuir para o sucesso dos projetos, sempre buscando a excelência e a inovação.
+    Desenvolvedora de Software na Asapcard, com expertise em sistemas de autorização e certificação de transações para bandeiras como Mastercard e Visa. Atuo diretamente na implementação de funcionalidades críticas, como a validação de mensagens ISO 8583, garantindo a conformidade e segurança das transações financeiras.
   </p>
   <p align="center">
-    <strong>Competências:</strong> Golang, ISO8583, Bitbucket, JIRA, Amazon Web Services (AWS), Slack, Confluence, Linux, Docker, Kanban, SQL.
-</p>
-<p align="center">
-    🎓 Análise e Desenvolvimento de Sistemas - Universidade Nove de Julho <br>
-    🏆 Certificações em Java, Angular, Typescript, MongoDB e mais.
+    <strong>Competências:</strong> Golang, ISO8583, Bitbucket, JIRA, Amazon Web Services (AWS), Slack, Confluence, Linux, Docker, Kanban, SQL, Insomnia.
   </p>
   
-<img align="center" src="https://github.com/verofreitt/verofreitt/assets/113372101/ed1d1653-a6f0-4ec6-b7d1-6cf20e6d0d7b" width="250" height="250">
+<img align="center" src="https://github.com/verofreitt/verofreitt/assets/113372101/ed1d1653-a6f0-4ec6-b7d1-6cf20e6d0d7b" width="100" height="100">
 
 
 <p></p>
