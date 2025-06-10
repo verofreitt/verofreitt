@@ -64,6 +64,6 @@ Atualmente curso MBA em Engenharia de Software e aplico no dia a dia princípios
 
 ![](http://github-readme-streak-stats.herokuapp.com?user=verofreitt&theme=tokyonight&count_private=true&include_all_commits=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=verofreitt&show_icons=true&theme=tokyonight)
+
 
 <div>
