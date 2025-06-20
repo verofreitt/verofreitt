@@ -19,8 +19,6 @@ Atualmente curso MBA em Engenharia de Software e aplico no dia a dia princípios
 <strong>Principais competências:</strong> Golang, Python (automação e dados), Java, Node.js, SQL, AWS, Docker, Linux, Bitbucket, JIRA, Confluence, Postman, Kanban.
 </p>
 
-<img align="center" src="https://github.com/user-attachments/assets/364a7e3b-130b-428e-995c-627aaa4acab4" width="100" height="100">
-
 
 <h2 align="center">Vamos nos conectar</h2>
 
