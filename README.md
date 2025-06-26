@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/a99b0d1d-2fd8-4290-9997-8046b12ca622" alt="anime old tech" width="350" style="margin-bottom: 20px; border-radius: 12px; box-shadow: 0 4px 16px #0002;"/>
+<img src="https://github.com/user-attachments/assets/b65ae314-27cc-4d12-823f-15234fcbbd87" alt="anime old tech" width="350" style="margin-bottom: 20px; border-radius: 12px; box-shadow: 0 4px 16px #0002;"/>
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap; margin-bottom: 24px;">
   <div style="text-align: left; max-width: 420px; min-width: 260px;">
@@ -11,9 +11,6 @@
       Atualmente curso MBA em Engenharia de Software e aplico no dia a dia princípios sólidos de design, escalabilidade e manutenção de sistemas. Já atuei com validação de mensagens financeiras (como ISO 8583), mas meu foco principal é o desenvolvimento de soluções eficientes, seguras e sustentáveis.<br><br>
       <strong>Principais competências:</strong> Golang, Python (automação e dados), Java, Node.js, SQL, AWS, Docker, Linux, Bitbucket, JIRA, Confluence, Postman, Kanban.
     </p>
-  </div>
-  <div>
-    <img src="https://github.com/user-attachments/assets/492db9f5-4e02-4471-a003-a7a66a932ed8" title="image sudo life" alt="image sudo life" width="180" style="border-radius: 50%; box-shadow: 0 2px 8px #0002; display: block; margin: 0 auto 12px auto;"/>
   </div>
 </div>
 
