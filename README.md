@@ -1,23 +1,21 @@
 <div align="center">
 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Z2b2J6d3F2b2J6d3F2b2J6d3F2b2J6d3F2b2J6d3F2b2J6/gdKAVlnm3bmKIyP7rE/giphy.gif" alt="anime old tech" width="400"/>
 
-<h1 align="center">Verônica Freitas — Software Developer</h1>
-
-<p align="center">
-Sou desenvolvedora de software com foco em back-end, proficiência em Go e experiência em sistemas robustos e de alta confiabilidade. Atuo diariamente na construção de funcionalidades críticas, com código limpo, testável e alinhado a boas práticas de arquitetura e engenharia.
-</p>
-
-<p align="center">
-Tenho sólida base em programação, versionamento, automação, pipelines e conteinerização. Estou constantemente aprofundando meus conhecimentos em engenharia de software, cloud (especialmente AWS), performance e legibilidade de código — além de explorar tópicos como inteligência artificial e ciência de dados com Python e Pandas.
-</p>
-
-<p align="center">
-Atualmente curso MBA em Engenharia de Software e aplico no dia a dia princípios sólidos de design, escalabilidade e manutenção de sistemas. Já atuei com validação de mensagens financeiras (como ISO 8583), mas meu foco principal é o desenvolvimento de soluções eficientes, seguras e sustentáveis.
-</p>
-
-<p align="center">
-<strong>Principais competências:</strong> Golang, Python (automação e dados), Java, Node.js, SQL, AWS, Docker, Linux, Bitbucket, JIRA, Confluence, Postman, Kanban.
-</p>
+<div style="display: flex; align-items: flex-start; justify-content: center; gap: 30px;">
+  <div style="text-align: left; max-width: 500px;">
+    <h1>Verônica Freitas — Software Developer</h1>
+    <p>
+      Sou desenvolvedora de software com foco em back-end, proficiência em Go e experiência em sistemas robustos e de alta confiabilidade. Atuo diariamente na construção de funcionalidades críticas, com código limpo, testável e alinhado a boas práticas de arquitetura e engenharia.<br><br>
+      Tenho sólida base em programação, versionamento, automação, pipelines e conteinerização. Estou constantemente aprofundando meus conhecimentos em engenharia de software, cloud (especialmente AWS), performance e legibilidade de código — além de explorar tópicos como inteligência artificial e ciência de dados com Python e Pandas.<br><br>
+      Atualmente curso MBA em Engenharia de Software e aplico no dia a dia princípios sólidos de design, escalabilidade e manutenção de sistemas. Já atuei com validação de mensagens financeiras (como ISO 8583), mas meu foco principal é o desenvolvimento de soluções eficientes, seguras e sustentáveis.<br><br>
+      <strong>Principais competências:</strong> Golang, Python (automação e dados), Java, Node.js, SQL, AWS, Docker, Linux, Bitbucket, JIRA, Confluence, Postman, Kanban.
+    </p>
+  </div>
+  <div>
+    <img src="https://github.com/user-attachments/assets/492db9f5-4e02-4471-a003-a7a66a932ed8" title='image sudo life' alt="image sudo life" width="220"/>
+  </div>
+</div>
 
 
 <h2 align="center">Vamos nos conectar</h2>
