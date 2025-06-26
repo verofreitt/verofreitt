@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Z2b2J6d3F2b2J6d3F2b2J6d3F2b2J6d3F2b2J6d3F2b2J6/gdKAVlnm3bmKIyP7rE/giphy.gif" alt="anime old tech" width="400"/>
+<img src="https://github.com/user-attachments/assets/a99b0d1d-2fd8-4290-9997-8046b12ca622" alt="anime old tech" width="400"/>
 
 <div style="display: flex; align-items: flex-start; justify-content: center; gap: 30px;">
   <div style="text-align: left; max-width: 500px;">
