@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/a99b0d1d-2fd8-4290-9997-8046b12ca622" alt="anime old tech" width="400"/>
+<img src="https://github.com/user-attachments/assets/a99b0d1d-2fd8-4290-9997-8046b12ca622" alt="anime old tech" width="350" style="margin-bottom: 20px; border-radius: 12px; box-shadow: 0 4px 16px #0002;"/>
 
-<div style="display: flex; align-items: flex-start; justify-content: center; gap: 30px;">
-  <div style="text-align: left; max-width: 500px;">
-    <h1>Verônica Freitas — Software Developer</h1>
+<div style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap; margin-bottom: 24px;">
+  <div style="text-align: left; max-width: 420px; min-width: 260px;">
+    <h1 style="margin-top:0;">Verônica Freitas — Software Developer</h1>
     <p>
       Sou desenvolvedora de software com foco em back-end, proficiência em Go e experiência em sistemas robustos e de alta confiabilidade. Atuo diariamente na construção de funcionalidades críticas, com código limpo, testável e alinhado a boas práticas de arquitetura e engenharia.<br><br>
       Tenho sólida base em programação, versionamento, automação, pipelines e conteinerização. Estou constantemente aprofundando meus conhecimentos em engenharia de software, cloud (especialmente AWS), performance e legibilidade de código — além de explorar tópicos como inteligência artificial e ciência de dados com Python e Pandas.<br><br>
@@ -13,7 +13,7 @@
     </p>
   </div>
   <div>
-    <img src="https://github.com/user-attachments/assets/492db9f5-4e02-4471-a003-a7a66a932ed8" title='image sudo life' alt="image sudo life" width="220"/>
+    <img src="https://github.com/user-attachments/assets/492db9f5-4e02-4471-a003-a7a66a932ed8" title="image sudo life" alt="image sudo life" width="180" style="border-radius: 50%; box-shadow: 0 2px 8px #0002; display: block; margin: 0 auto 12px auto;"/>
   </div>
 </div>
 
