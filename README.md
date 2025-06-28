@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="https://github.com/user-attachments/assets/b65ae314-27cc-4d12-823f-15234fcbbd87" alt="anime old tech" width="350" style="margin-bottom: 20px; border-radius: 12px; box-shadow: 0 4px 16px #0002;"/>
-
 <div style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap; margin-bottom: 24px;">
   <div style="text-align: left; max-width: 420px; min-width: 260px;">
     <h1 style="margin-top:0;">Verônica Freitas — Software Developer</h1>
