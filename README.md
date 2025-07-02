@@ -3,10 +3,14 @@
   <div style="text-align: left; max-width: 420px; min-width: 260px;">
     <h1 style="margin-top:0;">Verônica Freitas — Software Developer</h1>
     <p>
-      Sou desenvolvedora de software com foco em back-end, proficiência em Go e experiência em sistemas robustos e de alta confiabilidade. Atuo diariamente na construção de funcionalidades críticas, com código limpo, testável e alinhado a boas práticas de arquitetura e engenharia.<br><br>
-      Tenho sólida base em programação, versionamento, automação, pipelines e conteinerização. Estou constantemente aprofundando meus conhecimentos em engenharia de software, cloud (especialmente AWS), performance e legibilidade de código — além de explorar tópicos como inteligência artificial e ciência de dados com Python e Pandas.<br><br>
-      Atualmente curso MBA em Engenharia de Software e aplico no dia a dia princípios sólidos de design, escalabilidade e manutenção de sistemas. Já atuei com validação de mensagens financeiras (como ISO 8583), mas meu foco principal é o desenvolvimento de soluções eficientes, seguras e sustentáveis.<br><br>
-      <strong>Principais competências:</strong> Golang, Python (automação e dados), Java, Node.js, SQL, AWS, Docker, Linux, Bitbucket, JIRA, Confluence, Postman, Kanban.
+      I am a software developer with a focus on back-end development, proficient in Go and experienced in building robust, high-reliability systems. I work daily on developing critical features using clean, testable code that adheres to best practices in architecture and engineering.<br>
+      <br>
+
+I have a strong foundation in programming, version control, automation, CI/CD pipelines, and containerization. I'm continually deepening my knowledge in software engineering, cloud computing (particularly AWS), performance optimization, and code readability — while also exploring areas such as artificial intelligence and data science using Python and Pandas.
+
+I am currently pursuing an MBA in Software Engineering, applying solid principles of system design, scalability, and maintainability in my daily work. I have experience with financial message validation (such as ISO 8583), but my primary focus is on developing efficient, secure, and sustainable solutions.
+
+Core skills: Golang, Python (automation and data), Java, Node.js, SQL, AWS, Docker, Linux, Bitbucket, JIRA, Confluence, Postman, Kanban.
     </p>
   </div>
 </div>
