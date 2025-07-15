@@ -16,7 +16,7 @@ Core skills: Golang, Python (automation and data), Java, Node.js, SQL, AWS, Dock
 </div>
 
 
-<h2 align="center">Vamos nos conectar</h2>
+<h2 align="center">Let's connect</h2>
 
 <p align="center">
 	<a href="mailto:verofreitt@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
@@ -26,7 +26,7 @@ Core skills: Golang, Python (automation and data), Java, Node.js, SQL, AWS, Dock
 	
 </p>
 
-<h2 align="center">Linguagens e Ferramentas:</h2>
+<h2 align="center">Languages and Tools:</h2>
 <p align="center">
 <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/go-original.svg" alt="go" width="40" height="40" style="margin-right: 15px;"/> </a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/python-original.svg" alt="python" width="40" height="40" style="margin-right: 15px;"/> </a>
