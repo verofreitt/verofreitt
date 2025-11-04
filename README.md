@@ -1,10 +1,10 @@
 <div align="center">
 <div style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap; margin-bottom: 24px;">
   <div style="text-align: left; max-width: 420px; min-width: 260px;">
-    <h1 style="margin-top:0;">Verônica Freitas — Software Developer</h1>
+    <h1 style="margin-top:0;">Verônica Freitas — Software Engineer</h1>
     <p>
      I’m a Software Engineer specialized in payment systems, with a strong focus on real-time authorization, clearing, and financial infrastructure.
-		<br>
+		<br/>
 I develop high-performance backend services that ensure low latency, resilience, and compliance with Mastercard and Visa (ISO 8583) standards.
 I have experience with Go, AWS, Docker, and Kubernetes, and I work daily with microservices, messaging systems (RabbitMQ), and observability tools (Prometheus, Grafana, ELK).
 I’m actively involved in card network certification and integration projects, building message validation flows, authorization rules, and automated clearing and reconciliation routines.
