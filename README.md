@@ -3,14 +3,13 @@
   <div style="text-align: left; max-width: 420px; min-width: 260px;">
     <h1 style="margin-top:0;">Verônica Freitas — Software Developer</h1>
     <p>
-      I am a software developer with a focus on back-end development, proficient in Go and experienced in building robust, high-reliability systems. I work daily on developing critical features using clean, testable code that adheres to best practices in architecture and engineering.<br>
-      <br>
+     I’m a Software Engineer specialized in payment systems, with a strong focus on real-time authorization, clearing, and financial infrastructure.
+		<br>
+I develop high-performance backend services that ensure low latency, resilience, and compliance with Mastercard and Visa (ISO 8583) standards.
+I have experience with Go, AWS, Docker, and Kubernetes, and I work daily with microservices, messaging systems (RabbitMQ), and observability tools (Prometheus, Grafana, ELK).
+I’m actively involved in card network certification and integration projects, building message validation flows, authorization rules, and automated clearing and reconciliation routines.
 
-I have a strong foundation in programming, version control, automation, CI/CD pipelines, and containerization. I'm continually deepening my knowledge in software engineering, cloud computing (particularly AWS), performance optimization, and code readability — while also exploring areas such as artificial intelligence and data science using Python and Pandas.
-
-I am currently pursuing an MBA in Software Engineering, applying solid principles of system design, scalability, and maintainability in my daily work. I have experience with financial message validation (such as ISO 8583), but my primary focus is on developing efficient, secure, and sustainable solutions.
-
-Core skills: Golang, Python (automation and data), Java, Node.js, SQL, AWS, Docker, Linux, Bitbucket, JIRA, Confluence, Postman, Kanban.
+My focus is to combine deep technical expertise with a solid understanding of payment business processes, delivering secure, scalable, and reliable solutions for high-volume financial transactions.
     </p>
   </div>
 </div>
